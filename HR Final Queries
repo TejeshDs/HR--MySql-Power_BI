@@ -1,6 +1,9 @@
-create database projects;
-use projects;
+--TO CREATE DATABASE--
 
+create database projects;
+
+use projects;
+ 
 
 select * from hr;
 alter table hr change column ï»¿id emp_id varchar(30);
