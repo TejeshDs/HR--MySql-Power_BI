@@ -2,12 +2,18 @@
 HR Data visualization by using MySql and Power BI
 
 
-[Hr Mysql Power BI.pdf](https://github.com/TejeshDs/Power-Bi-project-1/files/13582557/Hr.Mysql.Power.BI.pdf)
 
 
+
+# DASHBOARD
+![Screenshot (15)](https://github.com/TejeshDs/Power-Bi-project-1/assets/151847161/662558b8-8d08-4584-91de-12f4fa73e4be)
+
+![Screenshot (16)](https://github.com/TejeshDs/Power-Bi-project-1/assets/151847161/4398b664-a4bb-45d3-b865-e31a1bd8ef88)
+
+# 
 # **Data Used**
 
-Data - HR Data from the year 2000 to 2020.
+Data - HR Data from the year 2000 to 2020.  ( [Hr Data.csv](https://github.com/TejeshDs/Power-Bi-project-1/files/13583407/Hr.Data.csv) )
 
 Data Cleaning & Analysis - MySQL Workbench
 
@@ -24,7 +30,7 @@ Data Visualization - PowerBI
 
    Data cleaned by using the MySql Workbench. Loaded the data into the MySql database and checked all the column names and renamed the 
    emp id column and further checked all the data types and modified according to the required data types. Arranged all the data 
-   properly to write Sql Queries and to use further for visualization in the Power BI. wrote the Queries and extraxted the outcomes 
+   properly to write Sql Queries and to use further for visualization in the Power BI. wrote the Queries and extracted the outcomes 
    from queries, and saved that files in saparate place to use in visualizations.
 
 **4) Data Visualization :**    
@@ -74,7 +80,7 @@ Data Visualization - PowerBI
 
 
 
-# **Limitations :**
+# Limitations
 
  Some records are excluded because it has the age in negative numbers this is due to the error in the bithdate column in the data.
 
